@@ -36463,7 +36463,7 @@ $0:function(){var s=this.a
 s.aA(new D.a_t(s))},
 $S:1}
 D.a_t.prototype={
-$0:function(){this.a.he("https://github.com/THANGADURAISELVARAJ/Resume/raw/main/Full%20Resume.pdf")},
+$0:function(){this.a.he("https://github.com/THANGADURAISELVARAJ/Resume/raw/main/Thangadurai%20Resume.pdf")},
 $S:1}
 M.lI.prototype={
 R:function(a,b){var s=null,r=C.iV.i(0,500),q=K.a8a(new P.bP(10,10))
